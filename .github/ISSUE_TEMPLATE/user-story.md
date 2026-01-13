@@ -7,16 +7,16 @@ assignees: ''
 
 ---
 
-As a role
-I need function 
-So that benefit
+As a ....
+I need ...
+So that ....
    
  ### Details and Assumptions
 
    
  ### Acceptance Criteria  
  
- Given Some Context
- When Certain action is taken
- Then the outcome is observed
+ Given .....
+ When .....
+ Then ....
  
